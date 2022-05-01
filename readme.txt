@@ -3,3 +3,4 @@ Goodbye
 otukare
 ohayou
 oyasumi
+konnichiha
