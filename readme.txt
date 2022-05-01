@@ -4,3 +4,4 @@ otukare
 ohayou
 oyasumi
 konnichiha
+aaaaaaaaaa
